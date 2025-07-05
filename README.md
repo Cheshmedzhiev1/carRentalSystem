@@ -22,4 +22,3 @@ A comprehensive car rental management system built in Java demonstrating Object-
 4. Follow the menu prompts
 
 ##### Sample Data
-The system includes Bulgarian customer names and phone numbers in +359 format.
