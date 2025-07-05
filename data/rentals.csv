@@ -1,0 +1,12 @@
+# Car Rental System Data File
+# Format: RecordType,Data1,Data2,Data3,...
+# Generated on: 2025-07-05
+CAR,C001,Toyota,Camry,2023,Sedan,Available,
+CAR,C002,BMW,X5,2024,SUV,Available,
+CAR,C003,Honda,Civic,2022,Sedan,Available,
+CAR,C004,Mercedes,C-Class,2023,Sedan,Available,
+CAR,C005,Audi,Q7,2024,SUV,Available,
+CUSTOMER,CUST001,Георги Петров,georgi.petrov@email.bg,+359 888 123 456,BG1234567,2025-07-05
+CUSTOMER,CUST002,Мария Иванова,maria.ivanova@abv.bg,+359 887 234 567,BG2345678,2025-07-05
+CUSTOMER,CUST003,Димитър Стоянов,dimitar.stoyanov@gmail.com,+359 889 345 678,BG3456789,2025-07-05
+CUSTOMER,CUST004,Елена Николова,elena.nikolova@yahoo.com,+359 886 456 789,BG4567890,2025-07-05
