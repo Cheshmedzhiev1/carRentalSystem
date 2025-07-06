@@ -4,7 +4,7 @@ A comprehensive car rental management system built in Java demonstrating Object-
 
 ## Features
 - Car fleet management
-- Customer management with Bulgarian phone number support
+- Customer management
 - Rental operations with cost calculation
 - CSV data persistence 
 - Advanced search and reporting
@@ -20,5 +20,3 @@ A comprehensive car rental management system built in Java demonstrating Object-
 2. Open in IntelliJ IDEA
 3. Run `CarRentalSystem.java`
 4. Follow the menu prompts
-
-##### Sample Data
